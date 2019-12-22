@@ -1,0 +1,96 @@
+
+3ClientParcheggio#checkScelta(III[LAutomobilista;Z)Z_
+SC:/Users/yazzy_000.LAPTOPHOME/eclipse-workspace/Car Parks/src/ClientParcheggio.javaë ë(""2"6"8"9"12"1*œ
+2_
+SC:/Users/yazzy_000.LAPTOPHOME/eclipse-workspace/Car Parks/src/ClientParcheggio.java¶
+ ¶("i
+_
+SC:/Users/yazzy_000.LAPTOPHOME/eclipse-workspace/Car Parks/src/ClientParcheggio.java¶ ¶(
+""*œ
+4_
+SC:/Users/yazzy_000.LAPTOPHOME/eclipse-workspace/Car Parks/src/ClientParcheggio.java§ §("i
+_
+SC:/Users/yazzy_000.LAPTOPHOME/eclipse-workspace/Car Parks/src/ClientParcheggio.java§ §(
+""*Ñ
+5_
+SC:/Users/yazzy_000.LAPTOPHOME/eclipse-workspace/Car Parks/src/ClientParcheggio.java† †(
+ç
+ä
+_
+SC:/Users/yazzy_000.LAPTOPHOME/eclipse-workspace/Car Parks/src/ClientParcheggio.java† †(
+%5java.io.PrintStream"__id*
+""¢ü
+_
+SC:/Users/yazzy_000.LAPTOPHOME/eclipse-workspace/Car Parks/src/ClientParcheggio.java† †(Y
+
+%6void"0java.io.PrintStream#println(Ljava/lang/String;)V*
+
+%5java.io.PrintStream*DB
+@parcheggio vuoto, non √® possibile rimuovere altri automobilisti2println(Ljava/lang/String;)"i
+_
+SC:/Users/yazzy_000.LAPTOPHOME/eclipse-workspace/Car Parks/src/ClientParcheggio.java° °(
+""*ó
+6_
+SC:/Users/yazzy_000.LAPTOPHOME/eclipse-workspace/Car Parks/src/ClientParcheggio.javaû û(®
+•
+_
+SC:/Users/yazzy_000.LAPTOPHOME/eclipse-workspace/Car Parks/src/ClientParcheggio.javaû û("
+%4Automobilista"
+__arrayGet*
+
+automobilisti$Array*
+""*
+4
+5*œ
+8_
+SC:/Users/yazzy_000.LAPTOPHOME/eclipse-workspace/Car Parks/src/ClientParcheggio.javaú ú("i
+_
+SC:/Users/yazzy_000.LAPTOPHOME/eclipse-workspace/Car Parks/src/ClientParcheggio.javaú ú(
+""*É
+9_
+SC:/Users/yazzy_000.LAPTOPHOME/eclipse-workspace/Car Parks/src/ClientParcheggio.javaò ò(
+ç
+ä
+_
+SC:/Users/yazzy_000.LAPTOPHOME/eclipse-workspace/Car Parks/src/ClientParcheggio.javaò ò(
+%2java.io.PrintStream"__id*
+""°û
+_
+SC:/Users/yazzy_000.LAPTOPHOME/eclipse-workspace/Car Parks/src/ClientParcheggio.javaò ò(X
+
+%3void"0java.io.PrintStream#println(Ljava/lang/String;)V*
+
+%2java.io.PrintStream*CA
+?parcheggio pieno, non √® possibile inserire altri automobilisti2println(Ljava/lang/String;)"i
+_
+SC:/Users/yazzy_000.LAPTOPHOME/eclipse-workspace/Car Parks/src/ClientParcheggio.javaô ô(
+""*œ
+1_
+SC:/Users/yazzy_000.LAPTOPHOME/eclipse-workspace/Car Parks/src/ClientParcheggio.java®
+ ®("i
+_
+SC:/Users/yazzy_000.LAPTOPHOME/eclipse-workspace/Car Parks/src/ClientParcheggio.java® ®(
+""*È
+12_
+SC:/Users/yazzy_000.LAPTOPHOME/eclipse-workspace/Car Parks/src/ClientParcheggio.javaì ì(	ç
+ä
+_
+SC:/Users/yazzy_000.LAPTOPHOME/eclipse-workspace/Car Parks/src/ClientParcheggio.javaì ì(
+%0java.io.PrintStream"__id*
+""ÜÉ
+_
+SC:/Users/yazzy_000.LAPTOPHOME/eclipse-workspace/Car Parks/src/ClientParcheggio.javaì ì(=
+
+%1void"0java.io.PrintStream#println(Ljava/lang/String;)V*
+
+%0java.io.PrintStream*(&
+$scelta non valida, inserisca 1, 2, 32println(Ljava/lang/String;)"i
+_
+SC:/Users/yazzy_000.LAPTOPHOME/eclipse-workspace/Car Parks/src/ClientParcheggio.javaî î(
+"":
+"":
+"":
+"":
+automobilisti$Array:
+""B"
+ClientParcheggio

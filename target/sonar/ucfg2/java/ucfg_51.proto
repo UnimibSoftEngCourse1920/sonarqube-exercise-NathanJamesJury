@@ -1,0 +1,133 @@
+
++Automobilista#parcheggiaAuto(LParcheggio;)VZ
+PC:/Users/yazzy_000.LAPTOPHOME/eclipse-workspace/Car Parks/src/Automobilista.java ("4*Á
+2Z
+PC:/Users/yazzy_000.LAPTOPHOME/eclipse-workspace/Car Parks/src/Automobilista.java# #(
+ˆ
+…
+Z
+PC:/Users/yazzy_000.LAPTOPHOME/eclipse-workspace/Car Parks/src/Automobilista.java# #(
+%8java.io.PrintStream"__id*
+""ž›
+Z
+PC:/Users/yazzy_000.LAPTOPHOME/eclipse-workspace/Car Parks/src/Automobilista.java#^ #(j	
+%9int"Automobilista#getID()I*
+Automobilista2getID()×
+Ô
+Z
+PC:/Users/yazzy_000.LAPTOPHOME/eclipse-workspace/Car Parks/src/Automobilista.java# #(j
+%10java.lang.String"__concat*FD
+Bticket gia presente, non puoi parcheggiare di nuovo automobilista *
+	
+%9intóð
+Z
+PC:/Users/yazzy_000.LAPTOPHOME/eclipse-workspace/Car Parks/src/Automobilista.java# #(k
+%11void"0java.io.PrintStream#println(Ljava/lang/String;)V*
+
+%8java.io.PrintStream*
+
+%10java.lang.String2println(Ljava/lang/String;)"d
+Z
+PC:/Users/yazzy_000.LAPTOPHOME/eclipse-workspace/Car Parks/src/Automobilista.java$ $(
+""*Ä
+3Z
+PC:/Users/yazzy_000.LAPTOPHOME/eclipse-workspace/Car Parks/src/Automobilista.java! !(
+ˆ
+…
+Z
+PC:/Users/yazzy_000.LAPTOPHOME/eclipse-workspace/Car Parks/src/Automobilista.java! !(
+%4java.io.PrintStream"__id*
+""ž›
+Z
+PC:/Users/yazzy_000.LAPTOPHOME/eclipse-workspace/Car Parks/src/Automobilista.java!E !(Q	
+%5int"Automobilista#getID()I*
+Automobilista2getID()½
+º
+Z
+PC:/Users/yazzy_000.LAPTOPHOME/eclipse-workspace/Car Parks/src/Automobilista.java! !(Q
+%6java.lang.String"__concat*-+
+)parcheggiando l'auto dell'automobilista: *
+	
+%5intñî
+Z
+PC:/Users/yazzy_000.LAPTOPHOME/eclipse-workspace/Car Parks/src/Automobilista.java! !(R
+
+%7void"0java.io.PrintStream#println(Ljava/lang/String;)V*
+
+%4java.io.PrintStream*
+
+%6java.lang.String2println(Ljava/lang/String;)*
+1*ý
+4Z
+PC:/Users/yazzy_000.LAPTOPHOME/eclipse-workspace/Car Parks/src/Automobilista.java+ (-š
+—
+Z
+PC:/Users/yazzy_000.LAPTOPHOME/eclipse-workspace/Car Parks/src/Automobilista.java/ (9
+%0
+Automobile"__id*!*
+Automobilista"
+
+automobile‰†
+Z
+PC:/Users/yazzy_000.LAPTOPHOME/eclipse-workspace/Car Parks/src/Automobilista.java (*
+%1ParcheggioThread"ParcheggioThreadŽ
+‹
+Z
+PC:/Users/yazzy_000.LAPTOPHOME/eclipse-workspace/Car Parks/src/Automobilista.java (L
+%2"BParcheggioThread#<init>(ILAutomobile;LParcheggio;LAutomobilista;)V*
+
+%1ParcheggioThread*
+""*
+
+%0
+Automobile*
+
+
+parcheggio
+Parcheggio*
+Automobilista¦
+£
+Z
+PC:/Users/yazzy_000.LAPTOPHOME/eclipse-workspace/Car Parks/src/Automobilista.java (L%
+Automobilista"
+parcheggioThread"__id*
+
+%1ParcheggioThread°­
+Z
+PC:/Users/yazzy_000.LAPTOPHOME/eclipse-workspace/Car Parks/src/Automobilista.java   (
+%3Ticket"!Automobilista#getTicket()LTicket;*
+Automobilista2getTicket()*
+2
+3*ù
+1Z
+PC:/Users/yazzy_000.LAPTOPHOME/eclipse-workspace/Car Parks/src/Automobilista.java& &(§
+¤
+Z
+PC:/Users/yazzy_000.LAPTOPHOME/eclipse-workspace/Car Parks/src/Automobilista.java& &(
+%12ParcheggioThread"__id*'*%
+Automobilista"
+parcheggioThreadŠ‡
+Z
+PC:/Users/yazzy_000.LAPTOPHOME/eclipse-workspace/Car Parks/src/Automobilista.java& &(
+%13java.lang.Thread"java.lang.ThreadÌ
+É
+Z
+PC:/Users/yazzy_000.LAPTOPHOME/eclipse-workspace/Car Parks/src/Automobilista.java& &(
+%14".java.lang.Thread#<init>(Ljava/lang/Runnable;)V*
+
+%13java.lang.Thread*
+
+%12ParcheggioThread«¨
+Z
+PC:/Users/yazzy_000.LAPTOPHOME/eclipse-workspace/Car Parks/src/Automobilista.java& &('
+%15void"java.lang.Thread#start()V*
+
+%13java.lang.Thread2start()"d
+Z
+PC:/Users/yazzy_000.LAPTOPHOME/eclipse-workspace/Car Parks/src/Automobilista.java' '(
+
+"":
+
+parcheggio
+ParcheggioB
+Automobilista

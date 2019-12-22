@@ -1,0 +1,58 @@
+
+BAutomobile#attesaParcheggiatori([LParcheggiatore;)LParcheggiatore;W
+MC:/Users/yazzy_000.LAPTOPHOME/eclipse-workspace/Car Parks/src/Automobile.java$ (8"8*¨
+3W
+MC:/Users/yazzy_000.LAPTOPHOME/eclipse-workspace/Car Parks/src/Automobile.java (¢
+Ÿ
+W
+MC:/Users/yazzy_000.LAPTOPHOME/eclipse-workspace/Car Parks/src/Automobile.java ('
+%2Parcheggiatore"
+__arrayGet*
+
+parcheggiatori$Array*
+""œ
+™
+W
+MC:/Users/yazzy_000.LAPTOPHOME/eclipse-workspace/Car Parks/src/Automobile.java (' 
+parcheggiatoreParcheggiatore"__id*
+
+%2Parcheggiatore*
+4
+1*º
+4W
+MC:/Users/yazzy_000.LAPTOPHOME/eclipse-workspace/Car Parks/src/Automobile.java (¢
+Ÿ
+W
+MC:/Users/yazzy_000.LAPTOPHOME/eclipse-workspace/Car Parks/src/Automobile.java (
+%0Parcheggiatore"
+__arrayGet*
+
+parcheggiatori$Array*
+""«¨
+W
+MC:/Users/yazzy_000.LAPTOPHOME/eclipse-workspace/Car Parks/src/Automobile.java ($
+%1boolean"Parcheggiatore#isLibero()Z*
+
+%0Parcheggiatore2
+isLibero()*	
+3
+4
+1*ó
+8W
+MC:/Users/yazzy_000.LAPTOPHOME/eclipse-workspace/Car Parks/src/Automobile.java (Œ
+‰
+W
+MC:/Users/yazzy_000.LAPTOPHOME/eclipse-workspace/Car Parks/src/Automobile.java (' 
+parcheggiatoreParcheggiatore"__id*
+""*
+4
+1*Û
+1W
+MC:/Users/yazzy_000.LAPTOPHOME/eclipse-workspace/Car Parks/src/Automobile.java#	 #("}
+W
+MC:/Users/yazzy_000.LAPTOPHOME/eclipse-workspace/Car Parks/src/Automobile.java# #("
+ 
+parcheggiatoreParcheggiatore:
+parcheggiatori$ArrayB
+
+Automobile

@@ -30,8 +30,9 @@ public class Parcheggiatore {
 	public void parcheggiaAuto(Automobile automobile) {
 		int defaultTime = 4000;
 		int numeroPosto = automobile.getPosto().getNumero();
+		long temp = defaultTime + (long)(numeroPosto)*1000;
 		try {
-			Thread.sleep(defaultTime + (numeroPosto)*1000);
+			Thread.sleep(temp);
 		} catch (InterruptedException e) {};
 		//una volta finito il suo lavoro, il parcheggiatore diventa di nuovo libero
 		libero = true;
@@ -41,8 +42,9 @@ public class Parcheggiatore {
 	public void restituisciAuto(Automobile automobile) {
 		int defaultTime = 4000;
 		int numeroPosto = automobile.getPosto().getNumero();
+		long temp = defaultTime + (long)(numeroPosto)*1000;
 		try {
-			Thread.sleep(defaultTime + (numeroPosto)*1000);
+			Thread.sleep(temp);
 		} catch (InterruptedException e) {};
 		//una volta finito il suo lavoro, il parcheggiatore diventa di nuovo libero
 		libero = true;

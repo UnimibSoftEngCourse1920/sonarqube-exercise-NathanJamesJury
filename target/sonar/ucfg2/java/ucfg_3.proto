@@ -1,0 +1,50 @@
+
+DClientParcheggio#listToArray(Ljava/util/ArrayList;)[LParcheggiatore;_
+SC:/Users/yazzy_000.LAPTOPHOME/eclipse-workspace/Car Parks/src/ClientParcheggio.java‡  ‡(+"5*ƒ
+2_
+SC:/Users/yazzy_000.LAPTOPHOME/eclipse-workspace/Car Parks/src/ClientParcheggio.javaŠ Š($”
+‘
+_
+SC:/Users/yazzy_000.LAPTOPHOME/eclipse-workspace/Car Parks/src/ClientParcheggio.javaŠ Š($ 
+parcheggiatoreParcheggiatore"__id*
+""*
+3
+1*¯
+3_
+SC:/Users/yazzy_000.LAPTOPHOME/eclipse-workspace/Car Parks/src/ClientParcheggio.java‹ ‹(Ã
+À
+_
+SC:/Users/yazzy_000.LAPTOPHOME/eclipse-workspace/Car Parks/src/ClientParcheggio.java‹ ‹(*
+%2"
+__arraySet*
+
+parcheggiatoriArray$Array*
+""*"
+ 
+parcheggiatoreParcheggiatore*
+2*À
+5_
+SC:/Users/yazzy_000.LAPTOPHOME/eclipse-workspace/Car Parks/src/ClientParcheggio.javaˆ< ˆ(J½º
+_
+SC:/Users/yazzy_000.LAPTOPHOME/eclipse-workspace/Car Parks/src/ClientParcheggio.javaˆ< ˆ(Q	
+%0int"java.util.ArrayList#size()I*'
+%
+parcheggiatorijava.util.ArrayList2size()yw
+_
+SC:/Users/yazzy_000.LAPTOPHOME/eclipse-workspace/Car Parks/src/ClientParcheggio.javaˆ) ˆ(R
+%1$Array"$Array™
+–
+_
+SC:/Users/yazzy_000.LAPTOPHOME/eclipse-workspace/Car Parks/src/ClientParcheggio.javaˆ ˆ(S
+parcheggiatoriArray$Array"__id*
+
+%1$Array*
+2*é
+1_
+SC:/Users/yazzy_000.LAPTOPHOME/eclipse-workspace/Car Parks/src/ClientParcheggio.javaŽ	 Ž("‚
+_
+SC:/Users/yazzy_000.LAPTOPHOME/eclipse-workspace/Car Parks/src/ClientParcheggio.javaŽ Ž(
+
+parcheggiatoriArray$Array:%
+parcheggiatorijava.util.ArrayListB"
+ClientParcheggio
