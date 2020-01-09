@@ -758,7 +758,42 @@ isClosed()!java.net.ServerSocket#isClosed()ZA
 <init>(Ljava/net/ServerSocket;)LCarParksServer$CPAutomobilistaThreadHandler#<init>(Ljava/net/ServerSocket;)Vﬁ
 *CarParksServer$CPAutomobilistaServerThreadjava.lang.Thread:
 run()1CarParksServer$CPAutomobilistaServerThread#run()Vb
-<init>(Ljava/net/Socket;)ECarParksServer$CPAutomobilistaServerThread#<init>(Ljava/net/Socket;)V_
+<init>(Ljava/net/Socket;)ECarParksServer$CPAutomobilistaServerThread#<init>(Ljava/net/Socket;)Vn
+CarParksServer$1java.lang.Thread 
+run()CarParksServer$1#run()V&
+<init>()CarParksServer$1#<init>()Vn
+CarParksServer$2java.lang.Thread 
+run()CarParksServer$2#run()V&
+<init>()CarParksServer$2#<init>()VÛ
+java.lang.Runtimejava.lang.ObjectÅ
+,exec([Ljava/lang/String;[Ljava/lang/String;)Qjava.lang.Runtime#exec([Ljava/lang/String;[Ljava/lang/String;)Ljava/lang/Process;A
+getRuntime()1java.lang.Runtime#getRuntime()Ljava/lang/Runtime;;
+runFinalization0()%java.lang.Runtime#runFinalization0()Võ
+9exec(Ljava/lang/String;[Ljava/lang/String;Ljava/io/File;)^java.lang.Runtime#exec(Ljava/lang/String;[Ljava/lang/String;Ljava/io/File;)Ljava/lang/Process;å
+0getLocalizedOutputStream(Ljava/io/OutputStream;)Xjava.lang.Runtime#getLocalizedOutputStream(Ljava/io/OutputStream;)Ljava/io/OutputStream;á
+.getLocalizedInputStream(Ljava/io/InputStream;)Ujava.lang.Runtime#getLocalizedInputStream(Ljava/io/InputStream;)Ljava/io/InputStream;C
+runFinalizersOnExit(Z))java.lang.Runtime#runFinalizersOnExit(Z)VA
+availableProcessors()(java.lang.Runtime#availableProcessors()I'
+<init>()java.lang.Runtime#<init>()V?
+traceInstructions(Z)'java.lang.Runtime#traceInstructions(Z)VY
+exec(Ljava/lang/String;)=java.lang.Runtime#exec(Ljava/lang/String;)Ljava/lang/Process;[
+exec([Ljava/lang/String;)>java.lang.Runtime#exec([Ljava/lang/String;)Ljava/lang/Process;%
+exit(I)java.lang.Runtime#exit(I)Vy
+1loadLibrary0(Ljava/lang/Class;Ljava/lang/String;)Djava.lang.Runtime#loadLibrary0(Ljava/lang/Class;Ljava/lang/String;)Vc
+&removeShutdownHook(Ljava/lang/Thread;)9java.lang.Runtime#removeShutdownHook(Ljava/lang/Thread;)Zk
+*load0(Ljava/lang/Class;Ljava/lang/String;)=java.lang.Runtime#load0(Ljava/lang/Class;Ljava/lang/String;)V9
+runFinalization()$java.lang.Runtime#runFinalization()V=
+traceMethodCalls(Z)&java.lang.Runtime#traceMethodCalls(Z)V
+gc()java.lang.Runtime#gc()V
++exec(Ljava/lang/String;[Ljava/lang/String;)Pjava.lang.Runtime#exec(Ljava/lang/String;[Ljava/lang/String;)Ljava/lang/Process;-
+maxMemory()java.lang.Runtime#maxMemory()Jù
+:exec([Ljava/lang/String;[Ljava/lang/String;Ljava/io/File;)_java.lang.Runtime#exec([Ljava/lang/String;[Ljava/lang/String;Ljava/io/File;)Ljava/lang/Process;%
+halt(I)java.lang.Runtime#halt(I)V/
+freeMemory()java.lang.Runtime#freeMemory()J1
+totalMemory() java.lang.Runtime#totalMemory()JU
+loadLibrary(Ljava/lang/String;)2java.lang.Runtime#loadLibrary(Ljava/lang/String;)VG
+load(Ljava/lang/String;)+java.lang.Runtime#load(Ljava/lang/String;)V]
+#addShutdownHook(Ljava/lang/Thread;)6java.lang.Runtime#addShutdownHook(Ljava/lang/Thread;)V_
 ParcheggioPienoExceptionjava.lang.Exception.
 <init>()"ParcheggioPienoException#<init>()Võ
 

@@ -1,58 +1,18 @@
 
-BAutomobile#attesaParcheggiatori([LParcheggiatore;)LParcheggiatore;W
-MC:/Users/yazzy_000.LAPTOPHOME/eclipse-workspace/Car Parks/src/Automobile.java$ (8"8*²
-3W
-MC:/Users/yazzy_000.LAPTOPHOME/eclipse-workspace/Car Parks/src/Automobile.java (¬
-©
-W
-MC:/Users/yazzy_000.LAPTOPHOME/eclipse-workspace/Car Parks/src/Automobile.java ('
-%2Parcheggiatore"
-__arrayGet*$
-"
-parcheggiatoriParcheggiatore[]*
-""œ
-™
-W
-MC:/Users/yazzy_000.LAPTOPHOME/eclipse-workspace/Car Parks/src/Automobile.java (' 
-parcheggiatoreParcheggiatore"__id*
-
-%2Parcheggiatore*
-4
-1*Ä
-4W
-MC:/Users/yazzy_000.LAPTOPHOME/eclipse-workspace/Car Parks/src/Automobile.java (¬
-©
-W
-MC:/Users/yazzy_000.LAPTOPHOME/eclipse-workspace/Car Parks/src/Automobile.java (
-%0Parcheggiatore"
-__arrayGet*$
-"
-parcheggiatoriParcheggiatore[]*
-""«¨
-W
-MC:/Users/yazzy_000.LAPTOPHOME/eclipse-workspace/Car Parks/src/Automobile.java ($
-%1boolean"Parcheggiatore#isLibero()Z*
-
-%0Parcheggiatore2
-isLibero()*	
-3
-4
-1*ó
-8W
-MC:/Users/yazzy_000.LAPTOPHOME/eclipse-workspace/Car Parks/src/Automobile.java (Œ
-‰
-W
-MC:/Users/yazzy_000.LAPTOPHOME/eclipse-workspace/Car Parks/src/Automobile.java (' 
-parcheggiatoreParcheggiatore"__id*
-""*
-4
-1*Û
+ Automobile#getPosto()LPostoAuto;W
+MC:/Users/yazzy_000.LAPTOPHOME/eclipse-workspace/Car Parks/src/Automobile.java ("1*Û
 1W
-MC:/Users/yazzy_000.LAPTOPHOME/eclipse-workspace/Car Parks/src/Automobile.java#	 #("}
+MC:/Users/yazzy_000.LAPTOPHOME/eclipse-workspace/Car Parks/src/Automobile.java	 (Ž
+‹
 W
-MC:/Users/yazzy_000.LAPTOPHOME/eclipse-workspace/Car Parks/src/Automobile.java# #("
- 
-parcheggiatoreParcheggiatore:"
-parcheggiatoriParcheggiatore[]B
+MC:/Users/yazzy_000.LAPTOPHOME/eclipse-workspace/Car Parks/src/Automobile.java	 (
+%0	PostoAuto"__id**
+
+Automobile"
+posto"l
+W
+MC:/Users/yazzy_000.LAPTOPHOME/eclipse-workspace/Car Parks/src/Automobile.java (
+
+%0	PostoAutoB
 
 Automobile

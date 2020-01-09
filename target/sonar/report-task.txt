@@ -3,5 +3,5 @@ projectKey=UnimibSoftEngCourse1920_sonarqube-exercise-NathanJamesJury
 serverUrl=https://sonarcloud.io
 serverVersion=8.0.0.3934
 dashboardUrl=https://sonarcloud.io/dashboard?id=UnimibSoftEngCourse1920_sonarqube-exercise-NathanJamesJury
-ceTaskId=AW-MWHW4wah1r6bKI_Cw
-ceTaskUrl=https://sonarcloud.io/api/ce/task?id=AW-MWHW4wah1r6bKI_Cw
+ceTaskId=AW-McmfLHF0fu7zDiFdy
+ceTaskUrl=https://sonarcloud.io/api/ce/task?id=AW-McmfLHF0fu7zDiFdy

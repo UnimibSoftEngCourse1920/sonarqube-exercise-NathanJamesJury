@@ -1,212 +1,9 @@
 
-Automobilista#ritiraAuto()VZ
-PC:/Users/yazzy_000.LAPTOPHOME/eclipse-workspace/Car Parks/src/Automobilista.java. .("4*√
-2Z
-PC:/Users/yazzy_000.LAPTOPHOME/eclipse-workspace/Car Parks/src/Automobilista.java3 3(	â
-Ü
-Z
-PC:/Users/yazzy_000.LAPTOPHOME/eclipse-workspace/Car Parks/src/Automobilista.java3 3(
-%19java.io.PrintStream"__id*
-""üú
-Z
-PC:/Users/yazzy_000.LAPTOPHOME/eclipse-workspace/Car Parks/src/Automobilista.java3[ 3(g
-
-%20int"Automobilista#getID()I*
-Automobilista2getID()÷
-”
-Z
-PC:/Users/yazzy_000.LAPTOPHOME/eclipse-workspace/Car Parks/src/Automobilista.java3 3(g
-%21java.lang.String"__concat*DB
-@ticket assente, impossibile restituire l'auto all'automobilista *
-
-
-%20intÙÒ
-Z
-PC:/Users/yazzy_000.LAPTOPHOME/eclipse-workspace/Car Parks/src/Automobilista.java3 3(h
-%22void"0java.io.PrintStream#println(Ljava/lang/String;)V*
-
-%19java.io.PrintStream*
-
-%21java.lang.String2println(Ljava/lang/String;)"d
-Z
-PC:/Users/yazzy_000.LAPTOPHOME/eclipse-workspace/Car Parks/src/Automobilista.java4 4(
-
-""*Ì
-3Z
-PC:/Users/yazzy_000.LAPTOPHOME/eclipse-workspace/Car Parks/src/Automobilista.java1 1(	à
-Ö
-Z
-PC:/Users/yazzy_000.LAPTOPHOME/eclipse-workspace/Car Parks/src/Automobilista.java1 1(
-%6java.io.PrintStream"__id*
-""ûõ
-Z
-PC:/Users/yazzy_000.LAPTOPHOME/eclipse-workspace/Car Parks/src/Automobilista.java1@ 1(L	
-%7int"Automobilista#getID()I*
-Automobilista2getID()π
-∂
-Z
-PC:/Users/yazzy_000.LAPTOPHOME/eclipse-workspace/Car Parks/src/Automobilista.java1 1(L
-%8java.lang.String"__concat*)'
-%restituendo l'auto all'automobilista *
-	
-%7int¨
-©
-Z
-PC:/Users/yazzy_000.LAPTOPHOME/eclipse-workspace/Car Parks/src/Automobilista.java1 1(\
-%9java.lang.String"__concat*
-
-%8java.lang.String*
- dal posto ì
-ê
-Z
-PC:/Users/yazzy_000.LAPTOPHOME/eclipse-workspace/Car Parks/src/Automobilista.java1_ 1(e
-%10Ticket"__id**
-Automobilista"
-ticket¥±
-Z
-PC:/Users/yazzy_000.LAPTOPHOME/eclipse-workspace/Car Parks/src/Automobilista.java1_ 1(t
-%11	PostoAuto" Ticket#getPostoAuto()LPostoAuto;*
-
-%10Ticket2getPostoAuto()•¢
-[
-PC:/Users/yazzy_000.LAPTOPHOME/eclipse-workspace/Car Parks/src/Automobilista.java1_ 1(Ä
-
-%12int"PostoAuto#getNumero()I*
-
-%11	PostoAuto2getNumero()´
-®
-[
-PC:/Users/yazzy_000.LAPTOPHOME/eclipse-workspace/Car Parks/src/Automobilista.java1 1(Ä
-%13java.lang.String"__concat*
-
-%9java.lang.String*
-
-
-%12int¥
-±
-[
-PC:/Users/yazzy_000.LAPTOPHOME/eclipse-workspace/Car Parks/src/Automobilista.java1 1(ï
-%14java.lang.String"__concat*
-
-%13java.lang.String*
- dal parcheggio ù
-ö
-\
-PC:/Users/yazzy_000.LAPTOPHOME/eclipse-workspace/Car Parks/src/Automobilista.java1ò 1(¢
-%15
-Parcheggio"__id*!*
-Automobilista"
-
-parcheggio¬ø
-\
-PC:/Users/yazzy_000.LAPTOPHOME/eclipse-workspace/Car Parks/src/Automobilista.java1ò 1(¨
-%16java.lang.String"&Parcheggio#getNome()Ljava/lang/String;*
-
-%15
-Parcheggio2	getNome()π
-∂
-[
-PC:/Users/yazzy_000.LAPTOPHOME/eclipse-workspace/Car Parks/src/Automobilista.java1 1(¨
-%17java.lang.String"__concat*
-
-%14java.lang.String*
-
-%16java.lang.StringÙÒ
-[
-PC:/Users/yazzy_000.LAPTOPHOME/eclipse-workspace/Car Parks/src/Automobilista.java1 1(≠
-%18void"0java.io.PrintStream#println(Ljava/lang/String;)V*
-
-%6java.io.PrintStream*
-
-%17java.lang.String2println(Ljava/lang/String;)*
-1*Ñ
-
-4Z
-PC:/Users/yazzy_000.LAPTOPHOME/eclipse-workspace/Car Parks/src/Automobilista.java/" /($ö
-ó
-Z
-PC:/Users/yazzy_000.LAPTOPHOME/eclipse-workspace/Car Parks/src/Automobilista.java/& /(0
-%0
-Automobile"__id*!*
-Automobilista"
-
-automobileö
-ó
-Z
-PC:/Users/yazzy_000.LAPTOPHOME/eclipse-workspace/Car Parks/src/Automobilista.java/2 /(<
-%1
-Parcheggio"__id*!*
-Automobilista"
-
-parcheggioí
-è
-Z
-PC:/Users/yazzy_000.LAPTOPHOME/eclipse-workspace/Car Parks/src/Automobilista.java/> /(D
-%2Ticket"__id**
-Automobilista"
-ticketÄ~
-Z
-PC:/Users/yazzy_000.LAPTOPHOME/eclipse-workspace/Car Parks/src/Automobilista.java/ /(!
-%3RitiraThread"RitiraThreadÙ
-Ò
-Z
-PC:/Users/yazzy_000.LAPTOPHOME/eclipse-workspace/Car Parks/src/Automobilista.java/ /(E
-%4"7RitiraThread#<init>(ILAutomobile;LParcheggio;LTicket;)V*
-
-%3RitiraThread*
-""*
-
-%0
-Automobile*
-
-%1
-Parcheggio*
-
-%2Ticketû
-õ
-Z
-PC:/Users/yazzy_000.LAPTOPHOME/eclipse-workspace/Car Parks/src/Automobilista.java/ /(E!
-Automobilista"
-ritiraThread"__id*
-
-%3RitiraThread∞≠
-Z
-PC:/Users/yazzy_000.LAPTOPHOME/eclipse-workspace/Car Parks/src/Automobilista.java0 0(
-%5Ticket"!Automobilista#getTicket()LTicket;*
-Automobilista2getTicket()*
-2
-3*Ö
+Automobilista#getID()IZ
+PC:/Users/yazzy_000.LAPTOPHOME/eclipse-workspace/Car Parks/src/Automobilista.java ("1*≈
 1Z
-PC:/Users/yazzy_000.LAPTOPHOME/eclipse-workspace/Car Parks/src/Automobilista.java6 6($ü
-ú
+PC:/Users/yazzy_000.LAPTOPHOME/eclipse-workspace/Car Parks/src/Automobilista.java	 ("d
 Z
-PC:/Users/yazzy_000.LAPTOPHOME/eclipse-workspace/Car Parks/src/Automobilista.java6 6($
-%23RitiraThread"__id*#*!
-Automobilista"
-ritiraThreadäá
-Z
-PC:/Users/yazzy_000.LAPTOPHOME/eclipse-workspace/Car Parks/src/Automobilista.java6 6(
-%24java.lang.Thread"java.lang.Thread»
-≈
-Z
-PC:/Users/yazzy_000.LAPTOPHOME/eclipse-workspace/Car Parks/src/Automobilista.java6 6(%
-%25".java.lang.Thread#<init>(Ljava/lang/Runnable;)V*
-
-%24java.lang.Thread*
-
-%23RitiraThreadó
-î
-Z
-PC:/Users/yazzy_000.LAPTOPHOME/eclipse-workspace/Car Parks/src/Automobilista.java6 6(&
-tjava.lang.Thread"__id*
-
-%24java.lang.Thread©¶
-Z
-PC:/Users/yazzy_000.LAPTOPHOME/eclipse-workspace/Car Parks/src/Automobilista.java7 7(
-%26void"java.lang.Thread#start()V*
-
-tjava.lang.Thread2start()"d
-Z
-PC:/Users/yazzy_000.LAPTOPHOME/eclipse-workspace/Car Parks/src/Automobilista.java8 8(	
+PC:/Users/yazzy_000.LAPTOPHOME/eclipse-workspace/Car Parks/src/Automobilista.java (
 ""B
 Automobilista

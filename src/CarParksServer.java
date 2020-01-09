@@ -115,17 +115,40 @@ public class CarParksServer {
 		}
 	}
 	
+	private static ServerSocket serverSocket = null;
+	private static ServerSocket serverSocket2 = null;
+	
 	public static void main(String[] args) {
-		 ServerSocket serverSocket = null, serverSocket2 = null;
+		 //lancio subito due thread che saranno in ascolto sulle porte 53535 (per parcheggi) e 53536 (per automobilisti)
 		 try {
-			 //lancio subito due thread che saranno in ascolto sulle porte 53535 (per parcheggi) e 53536 (per automobilisti)
 			 serverSocket = new ServerSocket(53535);
-			 serverSocket2 = new ServerSocket(53536);
 			 new CPParcheggioThreadHandler(serverSocket).start();
-			 new CPAutomobilistaThreadHandler(serverSocket2).start();
+			 
 		 } catch (Exception e) {
 			 System.err.println("errore nel main");
 			 System.exit(-1);
+		 } finally {
+			 Runtime.getRuntime().addShutdownHook(new Thread() { public void run() {
+				    try {
+				        serverSocket.close();
+				        System.out.println("The server is shut down!");
+				    } catch (IOException e) { /* failed */ }
+			}});
+		 }
+		 try {
+			 serverSocket2 = new ServerSocket(53536);
+			 new CPAutomobilistaThreadHandler(serverSocket2).start();
+			 
+		 } catch (Exception e) {
+			 System.err.println("errore nel main");
+			 System.exit(-1);
+		 } finally {
+			 Runtime.getRuntime().addShutdownHook(new Thread() { public void run() {
+				    try {
+				        serverSocket2.close();
+				        System.out.println("The server is shut down!");
+				    } catch (IOException e) { /* failed */ }
+			}});
 		 }
 	}
 
