@@ -2,26 +2,26 @@
 +ClientParcheggio#main([Ljava/lang/String;)V]
 SC:/Users/yazzy_000.LAPTOPHOME/eclipse-workspace/Car Parks/src/ClientParcheggio.java2 2("19*Ê
 13]
-SC:/Users/yazzy_000.LAPTOPHOME/eclipse-workspace/Car Parks/src/ClientParcheggio.java_ _(/‡„
+SC:/Users/yazzy_000.LAPTOPHOME/eclipse-workspace/Car Parks/src/ClientParcheggio.java^ ^(/‡„
 ]
-SC:/Users/yazzy_000.LAPTOPHOME/eclipse-workspace/Car Parks/src/ClientParcheggio.java_ _(
+SC:/Users/yazzy_000.LAPTOPHOME/eclipse-workspace/Car Parks/src/ClientParcheggio.java^ ^(
 %36Automobilista"Automobilista£
  
 ]
-SC:/Users/yazzy_000.LAPTOPHOME/eclipse-workspace/Car Parks/src/ClientParcheggio.java_
- _(2
+SC:/Users/yazzy_000.LAPTOPHOME/eclipse-workspace/Car Parks/src/ClientParcheggio.java^
+ ^(2
 %37"Automobilista#<init>(I)V*
 
 %36Automobilista*
 ""•
 ’
 ]
-SC:/Users/yazzy_000.LAPTOPHOME/eclipse-workspace/Car Parks/src/ClientParcheggio.java_ _(2
+SC:/Users/yazzy_000.LAPTOPHOME/eclipse-workspace/Car Parks/src/ClientParcheggio.java^ ^(2
 a1Automobilista"__id*
 
 %36Automobilistaëè
 ]
-SC:/Users/yazzy_000.LAPTOPHOME/eclipse-workspace/Car Parks/src/ClientParcheggio.java` `(!
+SC:/Users/yazzy_000.LAPTOPHOME/eclipse-workspace/Car Parks/src/ClientParcheggio.java_ _(!
 %38void"*Automobilista#setParcheggio(LParcheggio;)V*
 
 a1Automobilista*
@@ -31,7 +31,7 @@ parcheggio
 Parcheggio2setParcheggio(LParcheggio;)¸
 µ
 ]
-SC:/Users/yazzy_000.LAPTOPHOME/eclipse-workspace/Car Parks/src/ClientParcheggio.javab b($
+SC:/Users/yazzy_000.LAPTOPHOME/eclipse-workspace/Car Parks/src/ClientParcheggio.javaa a($
 %39"
 __arraySet*"
  
@@ -41,14 +41,14 @@ __arraySet*"
 a1Automobilista°
 ­
 ]
-SC:/Users/yazzy_000.LAPTOPHOME/eclipse-workspace/Car Parks/src/ClientParcheggio.javad d(
+SC:/Users/yazzy_000.LAPTOPHOME/eclipse-workspace/Car Parks/src/ClientParcheggio.javac c(
 %40Automobilista"
 __arrayGet*"
  
 automobilistiAutomobilista[]*
 ""îë
 ]
-SC:/Users/yazzy_000.LAPTOPHOME/eclipse-workspace/Car Parks/src/ClientParcheggio.javad d(:
+SC:/Users/yazzy_000.LAPTOPHOME/eclipse-workspace/Car Parks/src/ClientParcheggio.javac c(:
 %41void"+Automobilista#parcheggiaAuto(LParcheggio;)V*
 
 %40Automobilista*
@@ -57,7 +57,7 @@ SC:/Users/yazzy_000.LAPTOPHOME/eclipse-workspace/Car Parks/src/ClientParcheggio.
 parcheggio
 Parcheggio2parcheggiaAuto(LParcheggio;)ÉÆ
 ]
-SC:/Users/yazzy_000.LAPTOPHOME/eclipse-workspace/Car Parks/src/ClientParcheggio.javal l(1
+SC:/Users/yazzy_000.LAPTOPHOME/eclipse-workspace/Car Parks/src/ClientParcheggio.javak k(1
 %42PostoAuto[]"%Parcheggio#getPostiAuto()[LPostoAuto;*
 
 
@@ -65,24 +65,24 @@ parcheggio
 Parcheggio2getPostiAuto()*
 11*ú
 3_
-SC:/Users/yazzy_000.LAPTOPHOME/eclipse-workspace/Car Parks/src/ClientParcheggio.java‚ ‚(Ž
+SC:/Users/yazzy_000.LAPTOPHOME/eclipse-workspace/Car Parks/src/ClientParcheggio.java (Ž
 ‹
 _
-SC:/Users/yazzy_000.LAPTOPHOME/eclipse-workspace/Car Parks/src/ClientParcheggio.java‚ ‚(
+SC:/Users/yazzy_000.LAPTOPHOME/eclipse-workspace/Car Parks/src/ClientParcheggio.java (
 %54java.io.PrintStream"__id*
 ""ïì
 _
-SC:/Users/yazzy_000.LAPTOPHOME/eclipse-workspace/Car Parks/src/ClientParcheggio.java‚ ‚(&
+SC:/Users/yazzy_000.LAPTOPHOME/eclipse-workspace/Car Parks/src/ClientParcheggio.java (&
 %55void"0java.io.PrintStream#println(Ljava/lang/String;)V*
 
 %54java.io.PrintStream*
 arrivederci2println(Ljava/lang/String;)½º
 _
-SC:/Users/yazzy_000.LAPTOPHOME/eclipse-workspace/Car Parks/src/ClientParcheggio.java…	 …(.
+SC:/Users/yazzy_000.LAPTOPHOME/eclipse-workspace/Car Parks/src/ClientParcheggio.java„	 „(.
 %56'ClientParcheggio$ClientParcheggioThread"'ClientParcheggio$ClientParcheggioThread
 þ
 _
-SC:/Users/yazzy_000.LAPTOPHOME/eclipse-workspace/Car Parks/src/ClientParcheggio.java… …(2
+SC:/Users/yazzy_000.LAPTOPHOME/eclipse-workspace/Car Parks/src/ClientParcheggio.java„ „(2
 %57">ClientParcheggio$ClientParcheggioThread#<init>(LParcheggio;Z)V*0
 .
 %56'ClientParcheggio$ClientParcheggioThread*
@@ -92,66 +92,66 @@ parcheggio
 Parcheggio*
 ""ÇÄ
 _
-SC:/Users/yazzy_000.LAPTOPHOME/eclipse-workspace/Car Parks/src/ClientParcheggio.java… …(:
+SC:/Users/yazzy_000.LAPTOPHOME/eclipse-workspace/Car Parks/src/ClientParcheggio.java„ „(:
 %58void"java.lang.Thread#start()V*0
 .
 %56'ClientParcheggio$ClientParcheggioThread2start()*
 1*î
 15]
-SC:/Users/yazzy_000.LAPTOPHOME/eclipse-workspace/Car Parks/src/ClientParcheggio.javaV V(	Œ
+SC:/Users/yazzy_000.LAPTOPHOME/eclipse-workspace/Car Parks/src/ClientParcheggio.javaU U(	Œ
 ‰
 ]
-SC:/Users/yazzy_000.LAPTOPHOME/eclipse-workspace/Car Parks/src/ClientParcheggio.javaV V(
+SC:/Users/yazzy_000.LAPTOPHOME/eclipse-workspace/Car Parks/src/ClientParcheggio.javaU U(
 %26java.io.PrintStream"__id*
 ""çä
 ]
-SC:/Users/yazzy_000.LAPTOPHOME/eclipse-workspace/Car Parks/src/ClientParcheggio.javaV V(
+SC:/Users/yazzy_000.LAPTOPHOME/eclipse-workspace/Car Parks/src/ClientParcheggio.javaU U(
 %27void"0java.io.PrintStream#println(Ljava/lang/String;)V*
 
 %26java.io.PrintStream*	
 menu:2println(Ljava/lang/String;)Œ
 ‰
 ]
-SC:/Users/yazzy_000.LAPTOPHOME/eclipse-workspace/Car Parks/src/ClientParcheggio.javaW W(
+SC:/Users/yazzy_000.LAPTOPHOME/eclipse-workspace/Car Parks/src/ClientParcheggio.javaV V(
 %28java.io.PrintStream"__id*
 ""Œ
 ]
-SC:/Users/yazzy_000.LAPTOPHOME/eclipse-workspace/Car Parks/src/ClientParcheggio.javaW W(F
+SC:/Users/yazzy_000.LAPTOPHOME/eclipse-workspace/Car Parks/src/ClientParcheggio.javaV V(F
 %29void"0java.io.PrintStream#println(Ljava/lang/String;)V*
 
 %28java.io.PrintStream*1/
 -[1] per simulare l'arrivo di un automobilista2println(Ljava/lang/String;)Œ
 ‰
 ]
-SC:/Users/yazzy_000.LAPTOPHOME/eclipse-workspace/Car Parks/src/ClientParcheggio.javaX X(
+SC:/Users/yazzy_000.LAPTOPHOME/eclipse-workspace/Car Parks/src/ClientParcheggio.javaW W(
 %30java.io.PrintStream"__id*
 ""’
 ]
-SC:/Users/yazzy_000.LAPTOPHOME/eclipse-workspace/Car Parks/src/ClientParcheggio.javaX X(I
+SC:/Users/yazzy_000.LAPTOPHOME/eclipse-workspace/Car Parks/src/ClientParcheggio.javaW W(I
 %31void"0java.io.PrintStream#println(Ljava/lang/String;)V*
 
 %30java.io.PrintStream*42
 0[2] per simulare la partenza di un automobilista2println(Ljava/lang/String;)Œ
 ‰
 ]
-SC:/Users/yazzy_000.LAPTOPHOME/eclipse-workspace/Car Parks/src/ClientParcheggio.javaY Y(
+SC:/Users/yazzy_000.LAPTOPHOME/eclipse-workspace/Car Parks/src/ClientParcheggio.javaX X(
 %32java.io.PrintStream"__id*
 ""ðí
 ]
-SC:/Users/yazzy_000.LAPTOPHOME/eclipse-workspace/Car Parks/src/ClientParcheggio.javaY Y('
+SC:/Users/yazzy_000.LAPTOPHOME/eclipse-workspace/Car Parks/src/ClientParcheggio.javaX X('
 %33void"0java.io.PrintStream#println(Ljava/lang/String;)V*
 
 %32java.io.PrintStream*
 [3] per uscire2println(Ljava/lang/String;)¸µ
 ]
-SC:/Users/yazzy_000.LAPTOPHOME/eclipse-workspace/Car Parks/src/ClientParcheggio.javaZ Z(
+SC:/Users/yazzy_000.LAPTOPHOME/eclipse-workspace/Car Parks/src/ClientParcheggio.javaY Y(
 
 %34int"java.util.Scanner#nextInt()I*
 
 tastierajava.util.Scanner2	nextInt()ú
 ÷
 ]
-SC:/Users/yazzy_000.LAPTOPHOME/eclipse-workspace/Car Parks/src/ClientParcheggio.java\ \(P
+SC:/Users/yazzy_000.LAPTOPHOME/eclipse-workspace/Car Parks/src/ClientParcheggio.java[ [(P
 %35boolean"3ClientParcheggio#checkScelta(III[LAutomobilista;Z)Z*"
 	!Unknown!*
 ""*
@@ -166,14 +166,14 @@ SC:/Users/yazzy_000.LAPTOPHOME/eclipse-workspace/Car Parks/src/ClientParcheggio.
 8
 1*ó
 5]
-SC:/Users/yazzy_000.LAPTOPHOME/eclipse-workspace/Car Parks/src/ClientParcheggio.java} }(»¸
+SC:/Users/yazzy_000.LAPTOPHOME/eclipse-workspace/Car Parks/src/ClientParcheggio.java| |(»¸
 ]
-SC:/Users/yazzy_000.LAPTOPHOME/eclipse-workspace/Car Parks/src/ClientParcheggio.java
- ( .
+SC:/Users/yazzy_000.LAPTOPHOME/eclipse-workspace/Car Parks/src/ClientParcheggio.java~
+ ~( .
 %51'ClientParcheggio$ClientParcheggioThread"'ClientParcheggio$ClientParcheggioThreadÿ
 ü
 ]
-SC:/Users/yazzy_000.LAPTOPHOME/eclipse-workspace/Car Parks/src/ClientParcheggio.java (2
+SC:/Users/yazzy_000.LAPTOPHOME/eclipse-workspace/Car Parks/src/ClientParcheggio.java~ ~(2
 %52">ClientParcheggio$ClientParcheggioThread#<init>(LParcheggio;Z)V*0
 .
 %51'ClientParcheggio$ClientParcheggioThread*
@@ -183,7 +183,7 @@ parcheggio
 Parcheggio*
 ""ÅÂ
 ]
-SC:/Users/yazzy_000.LAPTOPHOME/eclipse-workspace/Car Parks/src/ClientParcheggio.java (:
+SC:/Users/yazzy_000.LAPTOPHOME/eclipse-workspace/Car Parks/src/ClientParcheggio.java~ ~(:
 %53void"java.lang.Thread#start()V*0
 .
 %51'ClientParcheggio$ClientParcheggioThread2start()*
@@ -301,23 +301,23 @@ SC:/Users/yazzy_000.LAPTOPHOME/eclipse-workspace/Car Parks/src/ClientParcheggio.
 16
 17*Î
 8]
-SC:/Users/yazzy_000.LAPTOPHOME/eclipse-workspace/Car Parks/src/ClientParcheggio.javav v(°
+SC:/Users/yazzy_000.LAPTOPHOME/eclipse-workspace/Car Parks/src/ClientParcheggio.javau u(°
 ­
 ]
-SC:/Users/yazzy_000.LAPTOPHOME/eclipse-workspace/Car Parks/src/ClientParcheggio.javav v( 
+SC:/Users/yazzy_000.LAPTOPHOME/eclipse-workspace/Car Parks/src/ClientParcheggio.javau u( 
 %47Automobilista"
 __arrayGet*"
  
 automobilistiAutomobilista[]*
 ""²¯
 ]
-SC:/Users/yazzy_000.LAPTOPHOME/eclipse-workspace/Car Parks/src/ClientParcheggio.javav v(-
+SC:/Users/yazzy_000.LAPTOPHOME/eclipse-workspace/Car Parks/src/ClientParcheggio.javau u(-
 %48void"Automobilista#ritiraAuto()V*
 
 %47Automobilista2ritiraAuto()©
 ¦
 ]
-SC:/Users/yazzy_000.LAPTOPHOME/eclipse-workspace/Car Parks/src/ClientParcheggio.javaw w('
+SC:/Users/yazzy_000.LAPTOPHOME/eclipse-workspace/Car Parks/src/ClientParcheggio.javav v('
 %49"
 __arraySet*"
  
@@ -325,7 +325,7 @@ __arraySet*"
 ""*
 ""ÉÆ
 ]
-SC:/Users/yazzy_000.LAPTOPHOME/eclipse-workspace/Car Parks/src/ClientParcheggio.javay y(2
+SC:/Users/yazzy_000.LAPTOPHOME/eclipse-workspace/Car Parks/src/ClientParcheggio.javax x(2
 %50PostoAuto[]"%Parcheggio#getPostiAuto()[LPostoAuto;*
 
 
@@ -443,14 +443,14 @@ SC:/Users/yazzy_000.LAPTOPHOME/eclipse-workspace/Car Parks/src/ClientParcheggio.
 16
 17*ô
 10]
-SC:/Users/yazzy_000.LAPTOPHOME/eclipse-workspace/Car Parks/src/ClientParcheggio.javar! r(+»¸
+SC:/Users/yazzy_000.LAPTOPHOME/eclipse-workspace/Car Parks/src/ClientParcheggio.javaq! q(+»¸
 ]
-SC:/Users/yazzy_000.LAPTOPHOME/eclipse-workspace/Car Parks/src/ClientParcheggio.javar
- r( .
+SC:/Users/yazzy_000.LAPTOPHOME/eclipse-workspace/Car Parks/src/ClientParcheggio.javaq
+ q( .
 %44'ClientParcheggio$ClientParcheggioThread"'ClientParcheggio$ClientParcheggioThreadÿ
 ü
 ]
-SC:/Users/yazzy_000.LAPTOPHOME/eclipse-workspace/Car Parks/src/ClientParcheggio.javar r(3
+SC:/Users/yazzy_000.LAPTOPHOME/eclipse-workspace/Car Parks/src/ClientParcheggio.javaq q(3
 %45">ClientParcheggio$ClientParcheggioThread#<init>(LParcheggio;Z)V*0
 .
 %44'ClientParcheggio$ClientParcheggioThread*
@@ -460,17 +460,17 @@ parcheggio
 Parcheggio*
 ""ÅÂ
 ]
-SC:/Users/yazzy_000.LAPTOPHOME/eclipse-workspace/Car Parks/src/ClientParcheggio.javar r(;
+SC:/Users/yazzy_000.LAPTOPHOME/eclipse-workspace/Car Parks/src/ClientParcheggio.javaq q(;
 %46void"java.lang.Thread#start()V*0
 .
 %44'ClientParcheggio$ClientParcheggioThread2start()*
 15
 1*£
 11]
-SC:/Users/yazzy_000.LAPTOPHOME/eclipse-workspace/Car Parks/src/ClientParcheggio.javao	 o(°
+SC:/Users/yazzy_000.LAPTOPHOME/eclipse-workspace/Car Parks/src/ClientParcheggio.javan	 n(°
 ­
 ]
-SC:/Users/yazzy_000.LAPTOPHOME/eclipse-workspace/Car Parks/src/ClientParcheggio.javao	 o(#
+SC:/Users/yazzy_000.LAPTOPHOME/eclipse-workspace/Car Parks/src/ClientParcheggio.javan	 n(#
 %43Automobilista"
 __arrayGet*"
  
@@ -481,13 +481,13 @@ __arrayGet*"
 1*}
 0 "v
 _
-SC:/Users/yazzy_000.LAPTOPHOME/eclipse-workspace/Car Parks/src/ClientParcheggio.java‹ ‹(
+SC:/Users/yazzy_000.LAPTOPHOME/eclipse-workspace/Car Parks/src/ClientParcheggio.javaŠ Š(
 implicit return*£
 1_
-SC:/Users/yazzy_000.LAPTOPHOME/eclipse-workspace/Car Parks/src/ClientParcheggio.javaŠ Š(
+SC:/Users/yazzy_000.LAPTOPHOME/eclipse-workspace/Car Parks/src/ClientParcheggio.java‰ ‰(
 ·´
 _
-SC:/Users/yazzy_000.LAPTOPHOME/eclipse-workspace/Car Parks/src/ClientParcheggio.javaŠ Š(
+SC:/Users/yazzy_000.LAPTOPHOME/eclipse-workspace/Car Parks/src/ClientParcheggio.java‰ ‰(
 %59void"java.util.Scanner#close()V*
 
 tastierajava.util.Scanner2close()*

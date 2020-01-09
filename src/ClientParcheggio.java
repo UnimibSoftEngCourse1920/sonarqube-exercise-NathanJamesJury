@@ -78,7 +78,6 @@ public class ClientParcheggio {
 		//questo array conterrà tutti gli automobilisti inseriti successivamente da console
 		Automobilista[] automobilisti = new Automobilista[parcheggio.getPostiAuto().length];
 		int numeroAutomobilisti = 0, numeroPosto = 0, numeroPosto2 = 0;
-		
 		do {
 			/*qui sarà libero di inserire o rimuovere ciclicamente a piacere automobilisti dal parcheggio, attenzione che se
 			 *il parcheggio fosse vuoto, non può inserire un nuovo automobilista e rimuoverlo prima che abbia finito di parcheggiare

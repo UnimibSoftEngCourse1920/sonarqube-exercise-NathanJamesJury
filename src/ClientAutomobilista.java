@@ -19,6 +19,7 @@ public class ClientAutomobilista {
 			this.port = 53536;
 			this.host = "localhost";
 			this.scelta = sceltaClient;
+			this.socket = null;
 		}
 		
 		public void run() {
@@ -30,6 +31,7 @@ public class ClientAutomobilista {
 				//mi connetto al server
 				socket = new Socket(host, port);
 				outputStream = new ObjectOutputStream(socket.getOutputStream());
+				 
 				//invio la mia scelta (1 o 2) al server
 				outputStream.writeInt(scelta);
 				outputStream.flush();

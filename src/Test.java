@@ -68,14 +68,20 @@ public class Test {
 		automobilisti[4].parcheggiaAuto(automobilisti[4].getParcheggio());	
 	}
 	
+	
 	//questo metodo è praticamente identico al codice dentro la classe ClientParcheggio, ovviamente senza la comunicazione con il server
 	public static void simulazioneManuale() {
+		
+		int scelta, i = 1;
+		boolean valido, pieno = false;
+		Automobilista a1;
+		Parcheggio parcheggio = null;
+		Automobilista[] automobilisti = new Automobilista[parcheggio.getPostiAuto().length];
+		int numeroAutomobilisti = 0, numeroPosto = 0, numeroPosto2 = 0;
 		Scanner tastiera = new Scanner(System.in);
 		ArrayList<Parcheggiatore> parcheggiatori = new ArrayList<>();
-		Parcheggio parcheggio;
 		boolean isLibero = true;
 		int ID = 0;
-		
 		System.out.println("inserire il nome del parcheggio");
 		String nome = tastiera.nextLine();
 		System.out.println("inserire numero totale posti auto: ");
@@ -89,12 +95,7 @@ public class Test {
 		}
 		Parcheggiatore[] parcheggiatoriArray = ClientParcheggio.listToArray(parcheggiatori);
 		parcheggio = new Parcheggio(nome, numeroPosti, parcheggiatoriArray);
-		int scelta, i = 1;
-		boolean valido, pieno = false;
-		Automobilista a1;
-		Automobilista[] automobilisti = new Automobilista[parcheggio.getPostiAuto().length];
-		int numeroAutomobilisti = 0, numeroPosto = 0, numeroPosto2 = 0;
-		
+	
 		do {
 			System.out.println("menu:");
 			System.out.println("[1] per simulare l'arrivo di un automobilista");
