@@ -29,16 +29,16 @@ SC:/Users/yazzy_000.LAPTOPHOME/eclipse-workspace/Car Parks/src/ClientParcheggio.
 @parcheggio vuoto, non Ã¨ possibile rimuovere altri automobilisti2println(Ljava/lang/String;)"i
 _
 SC:/Users/yazzy_000.LAPTOPHOME/eclipse-workspace/Car Parks/src/ClientParcheggio.java¡ ¡(
-""*—
+""* 
 6_
-SC:/Users/yazzy_000.LAPTOPHOME/eclipse-workspace/Car Parks/src/ClientParcheggio.javaž ž(¨
-¥
+SC:/Users/yazzy_000.LAPTOPHOME/eclipse-workspace/Car Parks/src/ClientParcheggio.javaž ž(±
+®
 _
 SC:/Users/yazzy_000.LAPTOPHOME/eclipse-workspace/Car Parks/src/ClientParcheggio.javaž ž("
 %4Automobilista"
-__arrayGet*
-
-automobilisti$Array*
+__arrayGet*"
+ 
+automobilistiAutomobilista[]*
 ""*
 4
 5*Ï
@@ -90,7 +90,7 @@ SC:/Users/yazzy_000.LAPTOPHOME/eclipse-workspace/Car Parks/src/ClientParcheggio.
 "":
 "":
 "":
-"":
-automobilisti$Array:
+"": 
+automobilistiAutomobilista[]:
 ""B"
 ClientParcheggio

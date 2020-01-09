@@ -1,6 +1,6 @@
 
 +ClientParcheggio#main([Ljava/lang/String;)V]
-SC:/Users/yazzy_000.LAPTOPHOME/eclipse-workspace/Car Parks/src/ClientParcheggio.java+ +("19*≥
+SC:/Users/yazzy_000.LAPTOPHOME/eclipse-workspace/Car Parks/src/ClientParcheggio.java+ +("19* 
 13]
 SC:/Users/yazzy_000.LAPTOPHOME/eclipse-workspace/Car Parks/src/ClientParcheggio.javaX X(/áÑ
 ]
@@ -28,24 +28,24 @@ SC:/Users/yazzy_000.LAPTOPHOME/eclipse-workspace/Car Parks/src/ClientParcheggio.
 
 
 parcheggio
-Parcheggio2setParcheggio(LParcheggio;)Ø
-¨
+Parcheggio2setParcheggio(LParcheggio;)∏
+µ
 ]
 SC:/Users/yazzy_000.LAPTOPHOME/eclipse-workspace/Car Parks/src/ClientParcheggio.java[ [($
 %39"
-__arraySet*
-
-automobilisti$Array*
+__arraySet*"
+ 
+automobilistiAutomobilista[]*
 ""*
 
-a1Automobilistaß
-§
+a1Automobilista∞
+≠
 ]
 SC:/Users/yazzy_000.LAPTOPHOME/eclipse-workspace/Car Parks/src/ClientParcheggio.java] ](
 %40Automobilista"
-__arrayGet*
-
-automobilisti$Array*
+__arrayGet*"
+ 
+automobilistiAutomobilista[]*
 ""ÓÎ
 ]
 SC:/Users/yazzy_000.LAPTOPHOME/eclipse-workspace/Car Parks/src/ClientParcheggio.java] ](:
@@ -55,10 +55,10 @@ SC:/Users/yazzy_000.LAPTOPHOME/eclipse-workspace/Car Parks/src/ClientParcheggio.
 
 
 parcheggio
-Parcheggio2parcheggiaAuto(LParcheggio;)ƒ¡
+Parcheggio2parcheggiaAuto(LParcheggio;)…∆
 ]
-SC:/Users/yazzy_000.LAPTOPHOME/eclipse-workspace/Car Parks/src/ClientParcheggio.javae e(1
-%42$Array"%Parcheggio#getPostiAuto()[LPostoAuto;*
+SC:/Users/yazzy_000.LAPTOPHOME/eclipse-workspace/Car Parks/src/ClientParcheggio.javae e(1
+%42PostoAuto[]"%Parcheggio#getPostiAuto()[LPostoAuto;*
 
 
 parcheggio
@@ -96,7 +96,7 @@ SC:/Users/yazzy_000.LAPTOPHOME/eclipse-workspace/Car Parks/src/ClientParcheggio.
 %58void"java.lang.Thread#start()V*0
 .
 %56'ClientParcheggio$ClientParcheggioThread2start()*
-1*Ï
+1*Ó
 15]
 SC:/Users/yazzy_000.LAPTOPHOME/eclipse-workspace/Car Parks/src/ClientParcheggio.javaO O(	å
 â
@@ -148,17 +148,17 @@ SC:/Users/yazzy_000.LAPTOPHOME/eclipse-workspace/Car Parks/src/ClientParcheggio.
 
 %34int"java.util.Scanner#nextInt()I*
 
-tastierajava.util.Scanner2	nextInt()¯
-ı
+tastierajava.util.Scanner2	nextInt()˙
+˜
 ]
 SC:/Users/yazzy_000.LAPTOPHOME/eclipse-workspace/Car Parks/src/ClientParcheggio.javaU U(P
-%35boolean"3ClientParcheggio#checkScelta(III[LAutomobilista;Z)Z*"
-ClientParcheggio*
+%35boolean"3ClientParcheggio#checkScelta(III[LAutomobilista;Z)Z*"
+	!Unknown!*
 ""*
 ""*
-""*
-
-automobilisti$Array*
+""*"
+ 
+automobilistiAutomobilista[]*
 ""*
 13
 3
@@ -188,28 +188,28 @@ SC:/Users/yazzy_000.LAPTOPHOME/eclipse-workspace/Car Parks/src/ClientParcheggio.
 .
 %51'ClientParcheggio$ClientParcheggioThread2start()*
 15
-1*Ä
+1*Ã
 16]
-SC:/Users/yazzy_000.LAPTOPHOME/eclipse-workspace/Car Parks/src/ClientParcheggio.java>) >(4ˆ
-Û
+SC:/Users/yazzy_000.LAPTOPHOME/eclipse-workspace/Car Parks/src/ClientParcheggio.java>) >(4˘
+ˆ
 ]
-SC:/Users/yazzy_000.LAPTOPHOME/eclipse-workspace/Car Parks/src/ClientParcheggio.java>) >(D
-%18$Array"DClientParcheggio#listToArray(Ljava/util/ArrayList;)[LParcheggiatore;*"
-ClientParcheggio*'
+SC:/Users/yazzy_000.LAPTOPHOME/eclipse-workspace/Car Parks/src/ClientParcheggio.java>) >(D
+%18Parcheggiatore[]"DClientParcheggio#listToArray(Ljava/util/ArrayList;)[LParcheggiatore;*"
+	!Unknown!*'
 %
-parcheggiatorijava.util.ArrayListò
-ï
+parcheggiatorijava.util.ArrayList¨
+©
 ]
-SC:/Users/yazzy_000.LAPTOPHOME/eclipse-workspace/Car Parks/src/ClientParcheggio.java> >(E
-parcheggiatoriArray$Array"__id*
-
-%18$ArrayÄ~
+SC:/Users/yazzy_000.LAPTOPHOME/eclipse-workspace/Car Parks/src/ClientParcheggio.java> >(E'
+parcheggiatoriArrayParcheggiatore[]"__id*
+
+%18Parcheggiatore[]Ä~
 ]
 SC:/Users/yazzy_000.LAPTOPHOME/eclipse-workspace/Car Parks/src/ClientParcheggio.java@ @(
 %19
 Parcheggio"
-Parcheggio˝
-˙
+Parcheggioá
+Ñ
 ]
 SC:/Users/yazzy_000.LAPTOPHOME/eclipse-workspace/Car Parks/src/ClientParcheggio.java@ @(E
 %20"8Parcheggio#<init>(Ljava/lang/String;I[LParcheggiatore;)V*
@@ -218,9 +218,9 @@ SC:/Users/yazzy_000.LAPTOPHOME/eclipse-workspace/Car Parks/src/ClientParcheggio.
 Parcheggio*
 
 nomejava.lang.String*
-""*
-
-parcheggiatoriArray$Arrayó
+""*)
+'
+parcheggiatoriArrayParcheggiatore[]ó
 î
 ]
 SC:/Users/yazzy_000.LAPTOPHOME/eclipse-workspace/Car Parks/src/ClientParcheggio.java@ @(E
@@ -253,23 +253,23 @@ SC:/Users/yazzy_000.LAPTOPHOME/eclipse-workspace/Car Parks/src/ClientParcheggio.
 ]
 SC:/Users/yazzy_000.LAPTOPHOME/eclipse-workspace/Car Parks/src/ClientParcheggio.javaF F(
 a1Automobilista"__id*
-""ƒ¡
+""…∆
 ]
-SC:/Users/yazzy_000.LAPTOPHOME/eclipse-workspace/Car Parks/src/ClientParcheggio.javaH4 H(M
-%24$Array"%Parcheggio#getPostiAuto()[LPostoAuto;*
+SC:/Users/yazzy_000.LAPTOPHOME/eclipse-workspace/Car Parks/src/ClientParcheggio.javaH4 H(M
+%24PostoAuto[]"%Parcheggio#getPostiAuto()[LPostoAuto;*
 
 
 parcheggio
-Parcheggio2getPostiAuto()xv
+Parcheggio2getPostiAuto()ãà
 ]
-SC:/Users/yazzy_000.LAPTOPHOME/eclipse-workspace/Car Parks/src/ClientParcheggio.javaH" H(U
-%25$Array"$Arrayí
-è
+SC:/Users/yazzy_000.LAPTOPHOME/eclipse-workspace/Car Parks/src/ClientParcheggio.javaH" H(U
+%25Automobilista[]"Automobilista[]§
+°
 ]
-SC:/Users/yazzy_000.LAPTOPHOME/eclipse-workspace/Car Parks/src/ClientParcheggio.javaH H(V
-automobilisti$Array"__id*
-
-%25$Array*
+SC:/Users/yazzy_000.LAPTOPHOME/eclipse-workspace/Car Parks/src/ClientParcheggio.javaH H(V 
+automobilistiAutomobilista[]"__id*
+
+%25Automobilista[]*
 15*£
 17]
 SC:/Users/yazzy_000.LAPTOPHOME/eclipse-workspace/Car Parks/src/ClientParcheggio.java: :(âÜ
@@ -299,34 +299,34 @@ SC:/Users/yazzy_000.LAPTOPHOME/eclipse-workspace/Car Parks/src/ClientParcheggio.
 
 tastierajava.util.Scanner2	nextInt()*
 16
-17*∑
+17*Œ
 8]
-SC:/Users/yazzy_000.LAPTOPHOME/eclipse-workspace/Car Parks/src/ClientParcheggio.javao o(ß
-§
+SC:/Users/yazzy_000.LAPTOPHOME/eclipse-workspace/Car Parks/src/ClientParcheggio.javao o(∞
+≠
 ]
 SC:/Users/yazzy_000.LAPTOPHOME/eclipse-workspace/Car Parks/src/ClientParcheggio.javao o( 
 %47Automobilista"
-__arrayGet*
-
-automobilisti$Array*
+__arrayGet*"
+ 
+automobilistiAutomobilista[]*
 ""≤Ø
 ]
 SC:/Users/yazzy_000.LAPTOPHOME/eclipse-workspace/Car Parks/src/ClientParcheggio.javao o(-
 %48void"Automobilista#ritiraAuto()V*
 
-%47Automobilista2ritiraAuto()†
-ù
+%47Automobilista2ritiraAuto()©
+¶
 ]
 SC:/Users/yazzy_000.LAPTOPHOME/eclipse-workspace/Car Parks/src/ClientParcheggio.javap p('
 %49"
-__arraySet*
-
-automobilisti$Array*
+__arraySet*"
+ 
+automobilistiAutomobilista[]*
 ""*
-""ƒ¡
+""…∆
 ]
-SC:/Users/yazzy_000.LAPTOPHOME/eclipse-workspace/Car Parks/src/ClientParcheggio.javar r(2
-%50$Array"%Parcheggio#getPostiAuto()[LPostoAuto;*
+SC:/Users/yazzy_000.LAPTOPHOME/eclipse-workspace/Car Parks/src/ClientParcheggio.javar r(2
+%50PostoAuto[]"%Parcheggio#getPostiAuto()[LPostoAuto;*
 
 
 parcheggio
@@ -465,16 +465,16 @@ SC:/Users/yazzy_000.LAPTOPHOME/eclipse-workspace/Car Parks/src/ClientParcheggio.
 .
 %44'ClientParcheggio$ClientParcheggioThread2start()*
 15
-1*ö
+1*£
 11]
-SC:/Users/yazzy_000.LAPTOPHOME/eclipse-workspace/Car Parks/src/ClientParcheggio.javah	 h(ß
-§
+SC:/Users/yazzy_000.LAPTOPHOME/eclipse-workspace/Car Parks/src/ClientParcheggio.javah	 h(∞
+≠
 ]
 SC:/Users/yazzy_000.LAPTOPHOME/eclipse-workspace/Car Parks/src/ClientParcheggio.javah	 h(#
 %43Automobilista"
-__arrayGet*
-
-automobilisti$Array*
+__arrayGet*"
+ 
+automobilistiAutomobilista[]*
 ""*
 15
 10
@@ -491,6 +491,6 @@ SC:/Users/yazzy_000.LAPTOPHOME/eclipse-workspace/Car Parks/src/ClientParcheggio.
 %59void"java.util.Scanner#close()V*
 
 tastierajava.util.Scanner2close()*
-0:
-args$ArrayB"
+0:
+argsjava.lang.String[]B"
 ClientParcheggio

@@ -33,7 +33,9 @@ public class Parcheggiatore {
 		long temp = defaultTime + (long)(numeroPosto)*1000;
 		try {
 			Thread.sleep(temp);
-		} catch (InterruptedException e) {};
+		} catch (InterruptedException e) {
+			Thread.currentThread().interrupt();
+		};
 		//una volta finito il suo lavoro, il parcheggiatore diventa di nuovo libero
 		libero = true;
 	}
@@ -45,7 +47,9 @@ public class Parcheggiatore {
 		long temp = defaultTime + (long)(numeroPosto)*1000;
 		try {
 			Thread.sleep(temp);
-		} catch (InterruptedException e) {};
+		} catch (InterruptedException e) {
+			Thread.currentThread().interrupt();
+		};
 		//una volta finito il suo lavoro, il parcheggiatore diventa di nuovo libero
 		libero = true;
 	}

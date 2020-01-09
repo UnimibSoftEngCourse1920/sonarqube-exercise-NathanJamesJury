@@ -9,42 +9,42 @@ SC:/Users/yazzy_000.LAPTOPHOME/eclipse-workspace/Car Parks/src/ClientParcheggio.
 parcheggiatoreParcheggiatore"__id*
 ""*
 3
-1*¯
+1*¹
 3_
-SC:/Users/yazzy_000.LAPTOPHOME/eclipse-workspace/Car Parks/src/ClientParcheggio.java‹ ‹(Ã
-À
+SC:/Users/yazzy_000.LAPTOPHOME/eclipse-workspace/Car Parks/src/ClientParcheggio.java‹ ‹(Í
+Ê
 _
 SC:/Users/yazzy_000.LAPTOPHOME/eclipse-workspace/Car Parks/src/ClientParcheggio.java‹ ‹(*
 %2"
-__arraySet*
-
-parcheggiatoriArray$Array*
+__arraySet*)
+'
+parcheggiatoriArrayParcheggiatore[]*
 ""*"
  
 parcheggiatoreParcheggiatore*
-2*À
+2*ê
 5_
 SC:/Users/yazzy_000.LAPTOPHOME/eclipse-workspace/Car Parks/src/ClientParcheggio.javaˆ< ˆ(J½º
 _
 SC:/Users/yazzy_000.LAPTOPHOME/eclipse-workspace/Car Parks/src/ClientParcheggio.javaˆ< ˆ(Q	
 %0int"java.util.ArrayList#size()I*'
 %
-parcheggiatorijava.util.ArrayList2size()yw
+parcheggiatorijava.util.ArrayList2size()Ž‹
 _
-SC:/Users/yazzy_000.LAPTOPHOME/eclipse-workspace/Car Parks/src/ClientParcheggio.javaˆ) ˆ(R
-%1$Array"$Array™
-–
+SC:/Users/yazzy_000.LAPTOPHOME/eclipse-workspace/Car Parks/src/ClientParcheggio.javaˆ) ˆ(R
+%1Parcheggiatore[]"Parcheggiatore[]­
+ª
 _
-SC:/Users/yazzy_000.LAPTOPHOME/eclipse-workspace/Car Parks/src/ClientParcheggio.javaˆ ˆ(S
-parcheggiatoriArray$Array"__id*
-
-%1$Array*
-2*é
+SC:/Users/yazzy_000.LAPTOPHOME/eclipse-workspace/Car Parks/src/ClientParcheggio.javaˆ ˆ(S'
+parcheggiatoriArrayParcheggiatore[]"__id*
+
+%1Parcheggiatore[]*
+2*ó
 1_
-SC:/Users/yazzy_000.LAPTOPHOME/eclipse-workspace/Car Parks/src/ClientParcheggio.javaŽ	 Ž("‚
+SC:/Users/yazzy_000.LAPTOPHOME/eclipse-workspace/Car Parks/src/ClientParcheggio.javaŽ	 Ž("Œ
 _
-SC:/Users/yazzy_000.LAPTOPHOME/eclipse-workspace/Car Parks/src/ClientParcheggio.javaŽ Ž(
-
-parcheggiatoriArray$Array:%
+SC:/Users/yazzy_000.LAPTOPHOME/eclipse-workspace/Car Parks/src/ClientParcheggio.javaŽ Ž()
+'
+parcheggiatoriArrayParcheggiatore[]:%
 parcheggiatorijava.util.ArrayListB"
 ClientParcheggio

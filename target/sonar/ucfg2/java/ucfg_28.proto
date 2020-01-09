@@ -1,22 +1,22 @@
 
 (Parcheggio#checkPostiLiberi()LPostoAuto;W
-MC:/Users/yazzy_000.LAPTOPHOME/eclipse-workspace/Car Parks/src/Parcheggio.java$  $(0"5*√
+MC:/Users/yazzy_000.LAPTOPHOME/eclipse-workspace/Car Parks/src/Parcheggio.java$  $(0"5*◊
 3W
-MC:/Users/yazzy_000.LAPTOPHOME/eclipse-workspace/Car Parks/src/Parcheggio.java' '(è
-å
+MC:/Users/yazzy_000.LAPTOPHOME/eclipse-workspace/Car Parks/src/Parcheggio.java' '(î
+ë
 W
-MC:/Users/yazzy_000.LAPTOPHOME/eclipse-workspace/Car Parks/src/Parcheggio.java' '(
-%4$Array"__id**
+MC:/Users/yazzy_000.LAPTOPHOME/eclipse-workspace/Car Parks/src/Parcheggio.java' '(
+%4PostoAuto[]"__id**
 
 Parcheggio"
-	postiAutoë
-é
+	postiAutoñ
+ì
 W
 MC:/Users/yazzy_000.LAPTOPHOME/eclipse-workspace/Car Parks/src/Parcheggio.java' '(
 %5	PostoAuto"
-__arrayGet*
-
-%4$Array*
+__arrayGet*
+
+%4PostoAuto[]*
 ""™ß
 W
 MC:/Users/yazzy_000.LAPTOPHOME/eclipse-workspace/Car Parks/src/Parcheggio.java' '(!
@@ -24,42 +24,42 @@ MC:/Users/yazzy_000.LAPTOPHOME/eclipse-workspace/Car Parks/src/Parcheggio.java'
 %6void"PostoAuto#setLibero(Z)V*
 
 %5	PostoAuto*
-""2setLibero(Z)è
-å
+""2setLibero(Z)î
+ë
 W
-MC:/Users/yazzy_000.LAPTOPHOME/eclipse-workspace/Car Parks/src/Parcheggio.java( ((
-%7$Array"__id**
+MC:/Users/yazzy_000.LAPTOPHOME/eclipse-workspace/Car Parks/src/Parcheggio.java( ((
+%7PostoAuto[]"__id**
 
 Parcheggio"
-	postiAutoë
-é
+	postiAutoñ
+ì
 W
 MC:/Users/yazzy_000.LAPTOPHOME/eclipse-workspace/Car Parks/src/Parcheggio.java( ((
 %8	PostoAuto"
-__arrayGet*
-
-%7$Array*
+__arrayGet*
+
+%7PostoAuto[]*
 """l
 W
 MC:/Users/yazzy_000.LAPTOPHOME/eclipse-workspace/Car Parks/src/Parcheggio.java( ((
 
-%8	PostoAuto*Æ
+%8	PostoAuto*∏
 4W
-MC:/Users/yazzy_000.LAPTOPHOME/eclipse-workspace/Car Parks/src/Parcheggio.java& &(è
-å
+MC:/Users/yazzy_000.LAPTOPHOME/eclipse-workspace/Car Parks/src/Parcheggio.java& &(î
+ë
 W
-MC:/Users/yazzy_000.LAPTOPHOME/eclipse-workspace/Car Parks/src/Parcheggio.java& &(
-%1$Array"__id**
+MC:/Users/yazzy_000.LAPTOPHOME/eclipse-workspace/Car Parks/src/Parcheggio.java& &(
+%1PostoAuto[]"__id**
 
 Parcheggio"
-	postiAutoë
-é
+	postiAutoñ
+ì
 W
 MC:/Users/yazzy_000.LAPTOPHOME/eclipse-workspace/Car Parks/src/Parcheggio.java& &(
 %2	PostoAuto"
-__arrayGet*
-
-%1$Array*
+__arrayGet*
+
+%1PostoAuto[]*
 ""°û
 W
 MC:/Users/yazzy_000.LAPTOPHOME/eclipse-workspace/Car Parks/src/Parcheggio.java& &(
@@ -68,13 +68,13 @@ MC:/Users/yazzy_000.LAPTOPHOME/eclipse-workspace/Car Parks/src/Parcheggio.java&
 %2	PostoAuto2
 isLibero()*
 3
-5*ˆ
+5*˚
 5W
-MC:/Users/yazzy_000.LAPTOPHOME/eclipse-workspace/Car Parks/src/Parcheggio.java% %(è
-å
+MC:/Users/yazzy_000.LAPTOPHOME/eclipse-workspace/Car Parks/src/Parcheggio.java% %(î
+ë
 W
-MC:/Users/yazzy_000.LAPTOPHOME/eclipse-workspace/Car Parks/src/Parcheggio.java% %(
-%0$Array"__id**
+MC:/Users/yazzy_000.LAPTOPHOME/eclipse-workspace/Car Parks/src/Parcheggio.java% %(
+%0PostoAuto[]"__id**
 
 Parcheggio"
 	postiAuto*
