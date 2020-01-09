@@ -13,6 +13,7 @@ public class ClientAutomobilista {
 		private String host;
 		private int scelta;
 		private ArrayList<String> parcheggi = null;
+		private Socket socket;
 		
 		public ClientAutomobilistaThread(int sceltaClient) {
 			super("ClientAutomobilistaThread");
@@ -22,7 +23,6 @@ public class ClientAutomobilista {
 		}
 		
 		public void run() {
-			Socket socket;
 			ObjectOutputStream outputStream;
 			ObjectInputStream inputStream;
 			
@@ -57,7 +57,14 @@ public class ClientAutomobilista {
 				e.printStackTrace();
 			} catch (ClassNotFoundException e) {
 				e.printStackTrace();
-			} 
+			} finally {
+				 Runtime.getRuntime().addShutdownHook(new Thread() { public void run() {
+					    try {
+					        socket.close();
+					        System.out.println("The server is shut down!");
+					    } catch (IOException e) { /* failed */ }
+				}});
+			 }
 		}
 	}
 	

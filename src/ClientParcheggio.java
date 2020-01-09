@@ -11,6 +11,7 @@ public class ClientParcheggio {
 		private int port;
 		private Parcheggio parcheggio;
 		private boolean isLibero;
+		private Socket socket;
 		
 		public ClientParcheggioThread(Parcheggio parcheggio, boolean isLibero) {
 			super("ClientParcheggioThread");
@@ -21,7 +22,6 @@ public class ClientParcheggio {
 		}
 		
 		public void run() {
-			Socket socket;
 			ObjectOutputStream outputStream;
 			
 			try {
@@ -36,7 +36,14 @@ public class ClientParcheggio {
 				e.printStackTrace();
 			} catch (IOException e) {
 				e.printStackTrace();
-			} 
+			} finally {
+				 Runtime.getRuntime().addShutdownHook(new Thread() { public void run() {
+					    try {
+					        socket.close();
+					        System.out.println("The server is shut down!");
+					    } catch (IOException e) { /* failed */ }
+				}});
+			 }
 		}
 	}
 	

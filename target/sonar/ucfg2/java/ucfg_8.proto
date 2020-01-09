@@ -1,17 +1,17 @@
 
- Ticket#getData()Ljava/util/Date;S
-IC:/Users/yazzy_000.LAPTOPHOME/eclipse-workspace/Car Parks/src/Ticket.java ("1*Ô
+ Ticket#getPostoAuto()LPostoAuto;S
+IC:/Users/yazzy_000.LAPTOPHOME/eclipse-workspace/Car Parks/src/Ticket.java ("1*Ï
 1S
-IC:/Users/yazzy_000.LAPTOPHOME/eclipse-workspace/Car Parks/src/Ticket.java	 (Š
+IC:/Users/yazzy_000.LAPTOPHOME/eclipse-workspace/Car Parks/src/Ticket.java	 (Š
 ‡
 S
-IC:/Users/yazzy_000.LAPTOPHOME/eclipse-workspace/Car Parks/src/Ticket.java	 (
-%0java.util.Date"__id**
-Ticket"
-data"m
+IC:/Users/yazzy_000.LAPTOPHOME/eclipse-workspace/Car Parks/src/Ticket.java	 (
+%0	PostoAuto"__id**
+Ticket"
+	postoAuto"h
 S
-IC:/Users/yazzy_000.LAPTOPHOME/eclipse-workspace/Car Parks/src/Ticket.java (
-
-%0java.util.DateB
+IC:/Users/yazzy_000.LAPTOPHOME/eclipse-workspace/Car Parks/src/Ticket.java (
+
+%0	PostoAutoB
 
 Ticket
