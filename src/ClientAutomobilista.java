@@ -12,7 +12,6 @@ public class ClientAutomobilista {
 		private int port;
 		private String host;
 		private int scelta;
-		private ArrayList<String> parcheggi = null;
 		private Socket socket;
 		
 		public ClientAutomobilistaThread(int sceltaClient) {
@@ -25,6 +24,7 @@ public class ClientAutomobilista {
 		public void run() {
 			ObjectOutputStream outputStream;
 			ObjectInputStream inputStream;
+			ArrayList<String> parcheggi = null;
 			
 			try {
 				//mi connetto al server
